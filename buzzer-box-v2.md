@@ -15,4 +15,4 @@
 
 ## Version 1
 
-![Version 1 Photo](photo.jpg)
+![Version 1 Photo](photo.jpeg)
