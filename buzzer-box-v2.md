@@ -12,3 +12,7 @@
   * Could be both functions/buttons on a remote/wired panel for leader
 6. Buzzer beeps for limited time (1sec?)
 7. Light for winner stays lit until reset
+
+## Version 1
+
+![Version 1 Photo](photo.jpg)
