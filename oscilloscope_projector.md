@@ -10,3 +10,6 @@ Speaker cone is mechanically linked to a mirror on a swivel/hinge
 
 Laser shines on mirror, scans across -- horizontal scale
 Amplifier gain adjusts height -- vertical scale
+
+Hookup info for mirror motor:
+http://tubetime.us/index.php/2008/08/04/laser-printer-scanning-mirror-experiments/
