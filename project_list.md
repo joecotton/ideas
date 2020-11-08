@@ -9,3 +9,4 @@ Last updated: 2020-10-29
 3. Motion Sensors on front porch, integrate with ZoneMinder
 4. Analog Panel Meter LCD for Geiger Counter
 5. Wiimote Cat Laser Toy
+6. Garage Entrance Distance Meter
