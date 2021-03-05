@@ -11,3 +11,4 @@ Last updated: 2021-02-08
 5. Wiimote Cat Laser Toy
 6. Garage Entrance Distance Meter
 7. A/V problem alert wireless modules
+8. All-in-One Remote Control and Message Signaler for Livestream
