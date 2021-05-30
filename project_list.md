@@ -12,3 +12,4 @@ Last updated: 2021-02-08
 6. Garage Entrance Distance Meter
 7. A/V problem alert wireless modules
 8. All-in-One Remote Control and Message Signaler for Livestream
+9. Oval car-window stickers with telecom data rates (2400, 9600, 14.4k, 28.8k, 56k, 1.544M, etc.)
